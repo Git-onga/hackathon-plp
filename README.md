@@ -1,8 +1,8 @@
-👨🏽‍💻# Bildad Gitonga | Personal Portfolio 👨🏽‍💻
+# Bildad Gitonga | Personal Portfolio 👨🏽‍💻
 
 This is a personal portfolio website for Bildad Gitonga, showcasing skills, projects, and contact information. The site is built using HTML and CSS, with custom animations and a responsive design.
 
-🚀## Deployment🚀
+## Deployment🚀
 
 The project is live and accessible at:
 
@@ -10,7 +10,7 @@ The project is live and accessible at:
 
 This site is hosted using GitHub Pages and automatically updates with the latest changes from the main branch.
 
-🔢## Features🔢
+## Features🔢
 
 - **Animated Hero Section:** SVG text animation and hero image with pulsing effect.
 - **About Section:** Brief introduction and background.
@@ -19,13 +19,14 @@ This site is hosted using GitHub Pages and automatically updates with the latest
 - **Contact Section:** Social links and a contact form.
 - **Responsive Design:** Optimized for desktop and mobile devices.
 
-♻️## Usage♻️
+## Usage♻️
 
 1. Clone or download the repository.
 2. Open `index.html` in your browser.
 3. All images and assets are located in the `pics/` folder.
 
-⚖️## License⚖️
+## License⚖️
 
 
 This project is for personal use and demonstration purposes.
+
